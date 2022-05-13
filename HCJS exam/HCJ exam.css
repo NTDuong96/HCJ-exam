@@ -1,0 +1,82 @@
+.navbar{
+    display: inline;
+}
+
+#navbarTogglerDemo01{
+    background-color: palevioletred;
+}
+
+li{
+    background-color: white;
+    text-decoration-color: pink;
+}
+
+.navbar-brand{
+    margin-left: 30px;
+}
+
+.navbar-nav{
+    margin-left: 250px;
+}
+
+.nav-item{
+    margin: auto 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 150px;
+    text-align: center;
+    background-color: pink;
+}
+
+.form-inline{
+    margin-left: 20px;
+}
+
+.pic{
+    margin: 20px auto;
+    display: block;
+    height: 180px;
+}
+
+.row{
+    background-color: lightpink;
+}
+
+.content-header{
+    margin: 16px auto;
+    display: flex;
+    alignment: center;
+    height: 30px;
+    width: 600px;
+    font-family: Tahoma;
+    text-align: center;
+    justify-content: center;
+    font-size: 25px;
+}
+
+.pic2{
+    width: 180px;
+    margin: 20px 55px;
+    display: inline-block;
+}
+
+p{
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    background-color: palevioletred;
+}
+
+form{
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+.col-sm{
+    alignment: right;
+    border: 1px solid black;
+}
+
+footer{
+    background-color: mistyrose;
+}
